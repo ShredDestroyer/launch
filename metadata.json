@@ -1,1 +1,7 @@
-
+{
+  "name": "She is my queen",
+  "symbol": "QUEEN",
+  "description": "A princess to some, but a queen to me",
+  "image": "https://raw.githubusercontent.com/ShredDestroyer/launch/main/princess.png",
+  "attributes": []
+}
